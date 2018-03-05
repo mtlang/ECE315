@@ -1,0 +1,11 @@
+Change Net Name : Old Net Name=I2C1_SCLK New Net Name=SCL
+Change Net Name : Old Net Name=I2C1_SDA New Net Name=SDA
+Change Net Name : Old Net Name=Net*_6 New Net Name=KEY3
+Change Net Name : Old Net Name=Net*_7 New Net Name=KEY2
+Change Net Name : Old Net Name=Net*_8 New Net Name=KEY1
+Change Net Name : Old Net Name=Net*_9 New Net Name=KEY0
+Change Net Name : Old Net Name=NetM400_1 New Net Name=KEY0_TEST
+Change Net Name : Old Net Name=NetM401_1 New Net Name=KEY1_TEST
+Change Net Name : Old Net Name=NetM402_1 New Net Name=KEY2_TEST
+Change Net Name : Old Net Name=NetM403_1 New Net Name=KEY3_TEST
+Change Net Name : Old Net Name=TOUCH_IRQ New Net Name=CHANGE

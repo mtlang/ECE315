@@ -1,0 +1,22 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~107|Field=Description~String~Description~107|Field=Designator~String~Designator~107|Field=Quantity~Integer~Quantity~107|Field=Supplier Part Number 1~String~Supplier Part Number 1~107|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ece315.PrjPcb|ReportField=ProjectFullPath~I:\WIN\Desktop\ECE315_Altium_Files\ece315.PrjPcb|ReportField=Title~Bill of Materials For Project [ece315.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~41|ReportField=ReportTime~4:57:38 PM|ReportField=ReportDate~2/6/2018|ReportField=ReportDateTime~2/6/2018 4:57:38 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=AssemblyNumber~ECE315-S18|ReportField=Address1~College of Engineering|ReportField=Address2~1415 Engineering Drive|ReportField=Address3~Madison, WI 53706|ReportField=Address4~ECE 315 Spring 2017|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~JSK|ReportField=ApprovedDate~|ReportField=Author~JSK|ReportField=CheckedBy~JSK|ReportField=CompanyName~University of Wisconsin|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~2/6/2018|ReportField=CurrentTime~4:57:32 PM|ReportField=Date~01/08/2018|ReportField=DocumentFullPathAndName~I:\WIN\Desktop\ECE315_Altium_Files\01-Revision_History_and_Contents.SchDoc|ReportField=DocumentName~01-Revision_History_and_Contents.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~JSK|ReportField=Engineer~JSK|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=MachineName~|ReportField=ModifiedDate~1/30/2018|ReportField=Organization~ECE 315|ReportField=PCBNumber~|ReportField=ProjectName~ece315.PrjPcb|ReportField=Revision~A|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~6|ReportField=Time~|ReportField=Title~Revision History and Contents|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~ece315.PrjPcb|ReportField=DataSourceFullPath~I:\WIN\Desktop\ECE315_Altium_Files\ece315.PrjPcb
+1|4.3pF|CAP CER 4.3PF 100V NP0 0805|C?|2|
+2|CAP_0805_U_001.00|CAP CER 1UF 16V 10% X7R 0805|C?|5|1uF
+3|LED_GREEN_0805.1|LED GREEN CLEAR THIN 0805 SMD|D500|1|160-1426-1-ND
+4|LED_RED_0805.1|LED SUPER RED CLR THIN 0805 SMD|D501|1|160-1427-1-ND
+5|LED_ORANGE.0805.1|LED ORANGE DIFFUSED 0805 SMD|D502|1|511-1284-1-ND
+6|LED_YELLOW_0805.1|LED YELLOW CLEAR THIN 0805 SMD|D503|1|160-1428-1-ND
+7|DIODE_4148|DIODE GEN PURP 100V 300MA SOD123|D600|1|1N4148W-FDICT-ND
+8|330 ohm @ 100 MHz||FB?|1|445-1569-1-ND
+9|CONN_BAT_2032|HOLDER BATTERY 20MM COIN|J?|1|BAT-HLD-001-ND
+10|CONN_ST_PROGRAMMER|CONN HEADER 2.54MM 10POS GOLD|J?|1|732-2861-ND
+11|BATTERY_2032||M?|1|N189-ND
+12|Peizo Buzzer|AUDIO PIEZO TRANSDUCER 12.5V SMD|PZ600|1|
+13|IC_NMOS_DMN2020LSN||Q?|2|DMN2020LSN-7DICT-ND
+14|RES_0805_K_001.00|RES SMD 1K OHM 1% 1/8W 0805|R600|1|
+15|10K|RES SMD 10K OHM 1% 1/8W 0805|R?|4|311-10.0KCRCT-ND, 311-10.0KCRCT-ND, 10K, 10K
+16|330|RES SMD 330 OHM 1% 1/8W 0805|R?|1|311-330CRCT-ND
+17|SW DPDT|Switch|S?|1|401-2002-1-ND
+18|TP_1206|Test Point SMD 1206|TP200, TP201, TP202, TP203, TP204, TP300, TP301, TP600|8|A106143CT-ND
+19|IC_STM32F303K8T6_1||U?|5|
+20|SW_6mm_6mm_SMT|SWITCH TACTILE SPST-NO 0.05A 12V|U?|1|CKN9087TR-ND
+21|32.7680KHZ 12.5PF|CRYSTAL 32.768KHZ 12.5PF SMD|X?|1|644-1156-1-ND
