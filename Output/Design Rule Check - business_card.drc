@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : E:\Users\mtlang\Github\ECE315_Altium_Files\business_card.PcbDoc
-Date     : 3/10/2018
-Time     : 5:38:21 PM
+PCB File : E:\Users\mtlang\Github\ECE315_Altium_Files\ECE315\business_card.PcbDoc
+Date     : 3/15/2018
+Time     : 7:58:54 PM
 
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0
@@ -18,7 +18,7 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=99999mil) (Max=50mil) (Preferred=0mil) (HasFootprint('BUCKYBADGER') or HasFootprint('Motion_W'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -54,10 +54,10 @@ Rule Violations :0
 Processing Rule : Room 03_MCU (Bounding Region = (1044.488mil, 1030mil, 1990mil, 2260mil) (InComponentClass('03_MCU'))
 Rule Violations :0
 
-Processing Rule : Room 05_LEDs (Bounding Region = (2000mil, 1050mil, 3580mil, 2620mil) (InComponentClass('05_LEDs'))
+Processing Rule : Room 02-Power (Bounding Region = (3610mil, 1030mil, 4470mil, 2970mil) (InComponentClass('02-Power'))
 Rule Violations :0
 
-Processing Rule : Room 02-Power (Bounding Region = (3610mil, 1030mil, 4470mil, 2970mil) (InComponentClass('02-Power'))
+Processing Rule : Room 05_LEDs (Bounding Region = (2000mil, 1050mil, 3580mil, 2620mil) (InComponentClass('05_LEDs'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)

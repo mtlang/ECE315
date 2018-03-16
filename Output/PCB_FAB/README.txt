@@ -1,0 +1,1 @@
+The board is defined by a 10mil trace found on all layers.

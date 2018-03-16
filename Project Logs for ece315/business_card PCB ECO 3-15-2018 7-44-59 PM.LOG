@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=GND Pin=R504-1
+Added Pin To Net: NetName=G_EN Pin=R504-2
+Added Pin To Net: NetName=GND Pin=R505-1
+Added Pin To Net: NetName=R_EN Pin=R505-2
+Added Pin To Net: NetName=GND Pin=R506-1
+Added Pin To Net: NetName=O_EN Pin=R506-2
+Added Pin To Net: NetName=GND Pin=R507-1
+Added Member To Class: ClassName=05_LEDs Member=Component R504 10K
+Added Member To Class: ClassName=05_LEDs Member=Component R505 10K
+Added Member To Class: ClassName=05_LEDs Member=Component R506 10K
+Added Member To Class: ClassName=05_LEDs Member=Component R507 10K
